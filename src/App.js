@@ -1,11 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
   return (
-    <h1>
-      Hello!
-    </h1>
+    <h2>
+      Hello!This is a project that I am currently working
+      on. I am going to create a fully functional 
+      calculator in ReactJS. Thankfully, I have already
+      set up the files.
+    </h2>
   );
 }
 
